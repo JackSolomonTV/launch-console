@@ -1,2 +1,3 @@
 # launch-console
-Application that tells you about me, 4 options.
+## Day 1 at my startup
+Today I started my solo startup and made my first commit. I got this.
